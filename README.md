@@ -7,7 +7,7 @@ Download and run install.bat, admin permissions are only neccessary if you would
 
 TO USE: 
 
-You can either manually run the DesktopSave and DesktopRestore programs in the folder manually, or use the context menu options.
+You can either run the DesktopSave and DesktopRestore programs in the folder manually, or use the context menu options.
 
 
 
