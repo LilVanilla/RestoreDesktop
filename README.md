@@ -1,5 +1,5 @@
 # RestoreDesktop
-Save and Restore Desktop Icons with the click of a button
+Save and Restore Desktop Icon Positions with the click of a button
 
 TO INSTALL: 
 
